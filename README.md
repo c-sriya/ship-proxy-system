@@ -14,8 +14,7 @@ This project implements a single-TCP connection proxy system for a cruise ship s
 
   
 ### Setup with venv
-bash
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-pip install -r requirements.txt
+- bash
+- python -m venv venv
+- venv\Scripts\activate      (For Windows)
+- pip install -r requirements.txt
