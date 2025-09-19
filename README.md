@@ -5,7 +5,14 @@ This project implements a single-TCP connection proxy system for a cruise ship s
 
 --- 
 
-## Project Setup ### Prerequisites - Python 3.12+ - Docker - Virtual environment (venv) 
+## Project Setup 
+
+### Prerequisites 
+- Python 3.12+
+- Docker
+- Virtual environment (venv)
+
+  
 ### Setup with venv
 bash
 python -m venv venv
